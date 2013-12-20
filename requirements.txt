@@ -1,0 +1,13 @@
+Here are the requirements for the clock:
+
+1. Showing time  
+2. 12 h or 24 hour
+3. Showing Date
+4. 5 Alarms
+5. Regard Weekend
+6. 5 Timers
+7. Chronometer
+8. Show temperature
+9. Show minimum and maximum temperature
+10. Backlite and its intensity adjustable
+11. Volume of the alarms adjustable
